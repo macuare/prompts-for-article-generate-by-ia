@@ -14,8 +14,7 @@
 
 <p align="center">
   <img 
-
-    src="https://github.com/macuare/prompts-for-article-generate-by-ia/blob/main/.github/assets/godotimagenIAyManual.png"
+    src=".github/assets/godotimagenIAyManual.png"
     width="400"  
   />
 </p>
