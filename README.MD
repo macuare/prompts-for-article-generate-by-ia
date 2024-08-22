@@ -64,8 +64,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <img 
       align=left 
       margin=10 
-      width=80 
-      src="https://lexica.art/prompt/b03670c9-463a-4c47-aa41-c74c91bb670c"
+      width=120 
+      src=".github/assets/ia.png"
     />
     <p>&nbsp&nbsp&nbspCusatti Andy<br>
     &nbsp&nbsp&nbsp
