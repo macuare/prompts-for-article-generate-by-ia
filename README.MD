@@ -18,13 +18,7 @@
   />
 </p>
 
- <audio controls autoplay muted>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
-
-
+[PODCAST](https://www.linkedin.com/in/andy-cusatti/)
 # Projeto artigo técnico gerado por I.A.s
 
 ### Godot Engine: La Revolución del Desarrollo de Videojuegos para Desarrolladores Entusiastas
