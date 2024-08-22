@@ -46,11 +46,13 @@ Lexica.art：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens do acervo público geradas via ChatGPT
 
 ## 📚 Materiais
 
 - prompts utilizados
+• Crea un articulo llamativo sobre godot para el desarrollo de video juegos resaltando los aspectos mas importantes y dando ejemplo de juegos desarrollados en esta plataforma orientado a desarrolladores entusiastas
+• Crea una imagen a partir del logo de godot 3d donde luzca poderosa, con magia, rayos y un fondo de juegos en 3d usando la imagen del logo de godot 
 
 ## 🛠️ Instruções de execução
 
