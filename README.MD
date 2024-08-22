@@ -14,8 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/godotimagenIAyManual.png"
-    width="1200"  
+    src=".github/assets/godotimagenIAyManual.png" width="1200" height="600"
   />
 </p>
 
